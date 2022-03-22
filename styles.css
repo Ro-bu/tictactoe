@@ -109,21 +109,20 @@ body{
 }
 #restart{
     background-color: #ffd6ba;
-    /* border: 3px solid #555b6e; */
+    border: none;
     font-size: 2em;
     font-weight: 700;
     padding: 15px 40px 15px 40px;
     border-radius: 20px;
     color: #2c3346;
-    border: 3px solid #ffd6ba;
 }
 
 #restart:hover{
     background-color: #ffe9db;
-    border: 3px solid #ffe9db;
+    border: none;
 }
 #restart:active{
     /* box-shadow: 0px 0px 5px 2px #d4d4d4; */
     background-color: #f1c5a8;
-    border: 3px solid #f1c5a8;
+    border: none;
 }
